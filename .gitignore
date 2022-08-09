@@ -1,1 +1,2 @@
 .python-version
+.streamlit/secrets.toml
