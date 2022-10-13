@@ -1,2 +1,4 @@
 .python-version
 .streamlit/secrets.toml
+.idea
+examples/cv_profile_generator/.streamlit/
