@@ -1,6 +1,6 @@
 # AI21 Studio Developers Hub
 
-A curated list of open source projects, blog posts, papers, and repositories built using [AI21 Studio](https://studio.ai21.com/overview)'s state-of-the-art LLMs.
+A curated list of open source projects, blog posts, papers, and repositories built using [AI21 Studio](https://studio.ai21.com/overview?utm_source=github&utm_medium=devhub)'s state-of-the-art LLMs.
 
 ## Contents
 
