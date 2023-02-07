@@ -56,7 +56,7 @@ If you would like to contribute to this list, please follow these guidelines:
 
 - Choose a programming language category that best suits the project you would like to add. If your preferred programming language is not listed, feel free to create a new category for it.
 - Verify that the project, blog post, pr paper you would like to add meets the criteria for inclusion:
-  - Uses the [AI21 Studio](https://studio.ai21.com/overview) Large Language Models in its core
+  - Uses the [AI21 Studio](https://studio.ai21.com/overview?utm_source=github&utm_medium=devhub) Large Language Models in its core
   - Is open source
 - Create a pull request with your contribution. Be sure to include the project name, link, and a brief description.
 
