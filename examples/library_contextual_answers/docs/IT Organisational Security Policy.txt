@@ -1,0 +1,39 @@
+IT Organizational Security Policy
+
+
+Purpose:
+The purpose of this policy is to outline ExampleTech's acceptable use of computer equipment and other electronic devices. These rules are in place to protect the Company and its employees. ExampleTech is at risk of cyber risks such as virus attacks including ransomware, compromise of network systems and services, data breaches, and legal liability due to inappropriate use.
+
+
+Scope:
+The policy applies to the use of information and electronic devices as well as network resources to conduct business or interact with internal networks and business systems. All employees, contractors, consultants, temporary, and other workers are responsible for exercising appropriate judgement regarding the appropriate use of information, electronic devices, and network resources. This is in accordance with policies and standards, and local laws and regulations.
+
+
+
+
+General Use and Ownership ExampleTech’s proprietary information, stored on electronic and computing devices, remains its sole property. Protecting this information is your responsibility, and you must immediately report theft, loss, or unauthorized disclosure of it.
+
+
+Please follow the guidelines listed below.
+
+
+1. You should never leave your laptop unattended outside of the office (for example, on the Wolt stand).
+2. Keep your computer locked whenever it isn't in use.
+3. Use the company’s chosen password manager to save all your passwords.
+4. When possible, sign into new accounts using your Google account. If this is not given as an option, sign in using your company email address, and save your password in the password manager.
+5. When given the option, use Two Factor Authentication for signing into an account.
+6. Do not write down your usernames or passwords.
+7. Use extreme caution when opening email attachments received from unknown senders, or suspicious emails from known senders, which may contain malware. Before clicking on, downloading or responding to a suspicious email, please forward it to safety@exampletech.com.
+8. When working remotely, use a password-protected public WiFi network.
+9. Do not leave office IT equipment unattended when working remotely.
+10. Do not use personal devices for work purposes.
+11. Do not store personal files on the company computers (except in folders clearly labelled by the Employee as “Personal”.
+12. Do not store Company files in personal or external storage space.
+13. Make sure to keep company equipment safe from physical damage.
+
+
+
+
+
+
+Corporate Email: You can use your corporate email for work related purposes only. This includes signing up for newsletters, and online services that will benefit your work. We ask you to avoid using your corporate email for personal use, to keep your email safe, and avoid spamming and disclosing confidential information.
