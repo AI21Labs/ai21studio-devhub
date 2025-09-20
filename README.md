@@ -14,5 +14,5 @@ This repository hosts code examples, starter projects, and community contributio
 
 * [AI21 Studio Docs](https://docs.ai21.com) – API reference, guides, and tutorials.
 * [AI21 Blog](https://www.ai21.com/blog) – product updates and deep dives.
-* [AI21 SDK Repo]([https://github.com/AI21Labs/ai21studio-devhub/discussions](https://github.com/AI21Labs/ai21-python)) – the latest info on the Python SDK.
+* [AI21 SDK Repo](https://github.com/AI21Labs/ai21-python) – the latest info on the Python SDK.
 
