@@ -1,6 +1,0 @@
-.python-version
-.streamlit/secrets.toml
-.idea
-examples/cv_profile_generator/.streamlit
-examples/.ipynb_checkpoints/
-examples/*/.ipynb_checkpoints/
